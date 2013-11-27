@@ -90,4 +90,5 @@ node default {
   }
 
   include people::matjack1
+  include projects::all
 }
